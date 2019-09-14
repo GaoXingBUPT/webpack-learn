@@ -1,6 +1,7 @@
 # webpack-learn
 
 ## https://malun666.github.io/aicoder_vip_doc/#/pages/vip_2webpack
+## https://www.bilibili.com/video/av41546218/?p=1
 
 ## watch
 
