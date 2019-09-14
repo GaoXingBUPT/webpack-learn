@@ -1,3 +1,10 @@
+$red: #900;
+$size: 20px;
+
 .scssStyle{
   background: pink;
+  height: 30px*2;
+  font-size: $size;
+  transform: translate3d( 0, 0, 0 );
+  background: url('../static/1.png')
 }
